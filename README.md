@@ -1,2 +1,2 @@
-# Home
-First Repository
+# home
+my first repository!
